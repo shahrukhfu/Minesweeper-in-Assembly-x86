@@ -22,9 +22,3 @@ A simple console-based implementation of the classic **Minesweeper** game writte
 - **Irvine32 library** (by Kip Irvine)
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/minesweeper-assembly.git
